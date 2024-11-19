@@ -28,24 +28,7 @@ This dataset is comprised of <b>62,015</b> tweets from Twitter with labelled emo
 
 
 
-### ML:
-The <b>ML Algorithms</b> used for prediction are listed as follows:
-
-#### Building models using different classifiers (Count vectorizer): 
-
-Model 1: <b>Multinomial Naive Bayes Classifier</b> - Accuracy <b>58.46%</b><br>
-Model 2: <b>Linear SVM</b> - Accuracy <b>62.00%</b><br>
-Model 3: <b>Logistic Regression</b> - Accuracy <b>62.47%</b>
-
-#### Building models using different classifiers (TF-IDF vectorizer): 
-
-Model 1: <b>Multinomial Naive Bayes Classifier</b> - Accuracy <b>38.37%</b><br>
-Model 2: <b>Linear SVM</b> - Accuracy <b>38.49%</b><br>
-Model 3: <b>Logistic Regression</b> - Accuracy <b>40.13%</b>
-
-
-
-### Prediction of emotions from paragraphs and sentences (DL Model):
+## Prediction of emotions from paragraphs and sentences (DL Model):
 
 
 ![](images/Predictions.JPG)
